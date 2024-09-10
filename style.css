@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(118, 184, 228);
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+a:hover{
+    background-color: rgb(250, 171, 177);
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 600px;
+    height: 400px;
+    border: solid rgb(228, 169, 169) 6px;
+    border-radius: 12px;
+    
+} 
+
+div a{
+    color:darkslateblue;
+    font-size: 20px;
+    text-decoration: none;
+}
